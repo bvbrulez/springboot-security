@@ -1,0 +1,6 @@
+curl --request GET \
+  --url http://localhost:8080/api/v1/students/1 \
+  --header 'Authorization: Basic dXNlcjplMzFkYmNhYi0yY2MyLTQ5NTEtOTQ1Yi1lMzQxM2NjNmNlNzk='
+
+### GetStudentsById
+GET http://localhost:8080/api/v1/students/1
