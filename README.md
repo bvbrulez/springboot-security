@@ -1,6 +1,12 @@
 # Tutorial for SpringBoot Security
 
-## Start the application
+# Start the application
+
+# 01_bootstrapping
+
+##   
+
+# 02_Getting_Started
 
 ## Form based authentication
 
@@ -17,3 +23,7 @@
   password and sends a 200 to client
 - there is no way to logout because username and password is sent with every single request
 - add the class `WebSecurityConfig.java`
+
+# 03_Users_and_Roles
+
+##
